@@ -42,7 +42,6 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ### 🧠 RAG Document Q&A Chatbot
 
-🔗 *(Add Repo Link Here)*
 
 * Built a **RAG pipeline** using **LangChain + NVIDIA NIM (ChatNVIDIA)**
 * ⚡ Reduced query latency to **milliseconds** with FAISS vector search
@@ -52,7 +51,7 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ### 🧬 Tumor Detection using UNet + SAM2 + LLM
 
-🔗 *(Add Repo Link Here)*
+
 
 * Developed medical imaging model on **small dataset (570 images)**
 * 🎯 Achieved **90%+ accuracy** in tumor segmentation
@@ -62,7 +61,6 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ### 🎬 Movie Recommendation System
 
-🔗 *(Add Repo Link Here)*
 
 * Built NLP-based recommendation engine using **cosine similarity**
 * ⭐ Achieved **97% accuracy**
@@ -72,7 +70,6 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ### 🐦 BirdLens – AI Bird Species Identifier
 
-🔗 *(Add Repo Link Here)*
 
 * Co-founded and built **real-time AI web app** using TensorFlow
 * 👥 Led team of **5 engineers**
@@ -89,12 +86,6 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelraizon\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelraizon\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌱 Currently Exploring
 
@@ -106,11 +97,7 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: *(Add Link)*
-* 🌐 Portfolio: *(Add Link)*
+* 💼 LinkedIn: [*(Add Link)*](https://www.linkedin.com/in/nansari-nyc/)
 * 📧 Email: [nabeel.ansari2000@outlook.com](mailto:nabeel.ansari2000@outlook.com)
 * 💻 GitHub: https://github.com/nabeelraizon
 
----
-
-⭐ *Always open to AI/ML opportunities, internships, and collaborations*
