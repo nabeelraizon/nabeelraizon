@@ -9,15 +9,6 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ---
 
-## 💡 What I Bring
-
-* 🔍 Built **RAG-based LLM systems** with fast, context-aware responses (FAISS + LangChain + NVIDIA NIM)
-* 🧠 Developed **deep learning models** achieving **90%+ accuracy** on medical imaging tasks
-* ⚙️ Automated IT operations for **500+ users** using Active Directory & SCCM
-* 🚀 Led engineering teams & shipped real-world AI products with measurable impact
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -38,66 +29,7 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ---
 
-## 📌 Featured Projects
-
-### 🧠 RAG Document Q&A Chatbot
-
-
-* Built a **RAG pipeline** using **LangChain + NVIDIA NIM (ChatNVIDIA)**
-* ⚡ Reduced query latency to **milliseconds** with FAISS vector search
-* 📄 Delivered **real-time Q&A with source references** via Streamlit UI
-
----
-
-### 🧬 Tumor Detection using UNet + SAM2 + LLM
-
-
-
-* Developed medical imaging model on **small dataset (570 images)**
-* 🎯 Achieved **90%+ accuracy** in tumor segmentation
-* 🤖 Combined **UNet + SAM2 + LLM reasoning** for improved detection
-
----
-
-### 🎬 Movie Recommendation System
-
-
-* Built NLP-based recommendation engine using **cosine similarity**
-* ⭐ Achieved **97% accuracy**
-* 🌐 Integrated **real-time scraping + sentiment analysis**
-
----
-
-### 🐦 BirdLens – AI Bird Species Identifier
-
-
-* Co-founded and built **real-time AI web app** using TensorFlow
-* 👥 Led team of **5 engineers**
-* 📈 Achieved **97% accuracy** with **50+ active users**
-
----
-
-## 🏆 Achievements
-
-* 📊 **90%+ accuracy** in medical imaging models
-* ⚡ **Milliseconds-level response time** in RAG systems
-* 👨‍💻 Managed IT infrastructure for **500+ users**
-* 🚀 Built and launched **multiple AI-powered production apps**
-
----
-
-
-## 🌱 Currently Exploring
-
-* Advanced **Agentic AI systems (LangGraph)**
-* **Multimodal LLMs (Vision + Text)**
-* Scalable **AI deployment pipelines**
-
----
-
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: [*nansari-nyc*](https://www.linkedin.com/in/nansari-nyc/)
 * 📧 Email: [nabeel.ansari2000@outlook.com](mailto:nabeel.ansari2000@outlook.com)
-* 💻 GitHub: https://github.com/nabeelraizon
-
