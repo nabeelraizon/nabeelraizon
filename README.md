@@ -97,7 +97,7 @@ AI Engineer with a Master’s in Computer Science (The City College of New York)
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: [*(Add Link)*](https://www.linkedin.com/in/nansari-nyc/)
+* 💼 LinkedIn: [*nansari-nyc*](https://www.linkedin.com/in/nansari-nyc/)
 * 📧 Email: [nabeel.ansari2000@outlook.com](mailto:nabeel.ansari2000@outlook.com)
 * 💻 GitHub: https://github.com/nabeelraizon
 
